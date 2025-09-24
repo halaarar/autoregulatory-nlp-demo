@@ -1,8 +1,0 @@
-[project]
-name = "autoreg-demo"
-version = "0.1.0"
-description = "Synthetic, shareable demo of an autoregulatory NLP pipeline"
-requires-python = ">=3.10"
-
-[tool.pytest.ini_options]
-addopts = "-q"
