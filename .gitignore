@@ -1,0 +1,17 @@
+# env
+.venv/
+.env
+
+# python
+__pycache__/
+*.pyc
+
+# data & artifacts
+data/*.csv
+!data/README.md
+
+# notebooks
+*.ipynb_checkpoints/
+
+# OS
+.DS_Store
